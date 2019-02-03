@@ -9,6 +9,6 @@
   "author": "Pierre-Gilles Leymarie",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
-    "serialport"
+    "serialport" : "^7.1.4"
   }
 }
